@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>Hi, I'm Swoyam!</h1>
+<h2>About Me</h2>
+<p>I am a Junior year Computer Information Technology student who is enthusiastic in cyber security, information security, network security, and IT operations. Skilles and experienced in Several administation, Windows Server, Micorsoft Azure, netowking configuration. Eager to implement my skills and experience in real world from the best in an internship opportunity.</p>
 
-<!--
-**Swoyam21/Swoyam21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📊 Cybersecurity Projects</h2>
+<ul>
+  <li><b>Setting up SIEM in Microsoft Sentinal (Azure)</b>: <a href="https://github.com/cybersuhan/AzureSIEMLab">View on GitHub</a></li>
+</ul>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>🏅 Certifications</h2>
+<ul>
+  <li>Introduction to Cybersecurity by Cisco Networking Academyl</li>
+  <li>Ethical Hacker by Cisoc Networking Academy </li>
+  <li>Working towards CompTIA Security+</li>
+</ul>
+
+<h2>🤝 Connect with Me</h2>
+<ul>
+  <li><a href="https://www.linkedin.com/in/swoyam-bista/">LinkedIn</a></li>
+  <li><a href="mailto:swoyam.bista4321@gmail.com">E-mail</a></li>
+</ul>
