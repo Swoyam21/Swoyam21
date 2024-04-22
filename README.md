@@ -5,6 +5,7 @@
 <h2>📊 Cybersecurity Projects</h2>
 <ul>
   <li><b>Setting up SIEM in Microsoft Sentinal (Azure)</b>: <a href="https://github.com/Swoyam21/Sentinel_Lab-HoneyPot">View on GitHub</a></li>
+  <li><b>Vulnerabilities Management with Nessus using VmWare</b>: <a href="https://github.com/Swoyam21/Vulnerability-Management-with-Nessus">View on GitHub</a></li>
 </ul>
 
 
