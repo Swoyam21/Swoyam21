@@ -1,6 +1,6 @@
 <h1>Hi, I'm Swoyam!</h1>
 <h2>About Me</h2>
-<p>I am a Junior year Computer Information Technology student who is enthusiastic in cyber security, information security, network security, and IT operations. Skilles and experienced in Several administation, Windows Server, Micorsoft Azure, netowking configuration. Eager to implement my skills and experience in real world from the best in an internship opportunity.</p>
+<p>I am a Senior year Computer Information Technology student who is enthusiastic in cyber security, information security, network security, and IT operations. Skilles and experienced in Several administation, Windows Server, Micorsoft Azure, netowking configuration. Eager to implement my skills and experience in real world from the best in an internship opportunity.</p>
 
 <h2>📊 Cybersecurity Projects</h2>
 <ul>
