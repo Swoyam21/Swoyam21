@@ -1,6 +1,6 @@
 <h1>Hi, I'm Swoyam!</h1>
 <h2>About Me</h2>
-<p>I am a Senior year Computer Information Technology student who is enthusiastic in cyber security, information security, network security, and IT operations. Skilles and experienced in Several administation, Windows Server, Micorsoft Azure, netowking configuration. Eager to implement my skills and experience in real world from the best in an internship opportunity.</p>
+<p>I’m a senior Computer Information Technology student at Minnesota State University, Mankato, with a strong interest in cybersecurity, network defense, and IT operations. CompTIA Security+ certified, I bring hands-on experience in system administration, Windows Server (Active Directory, DNS, DHCP), Microsoft Azure, and hybrid identity management. I’ve worked extensively with tools like Splunk, Azure Sentinel, Microsoft Defender for Endpoint, Nessus, and Wireshark for threat detection, vulnerability management, and SIEM monitoring. I’m also proficient in PowerShell and Python scripting for automation and remediation tasks. This GitHub showcases my technical labs and projects in areas like file integrity monitoring, ARP spoofing detection, and building secure Azure AD environments. I’m passionate about learning from real-world scenarios and actively seeking opportunities to contribute to impactful cybersecurity initiatives.</p>
 
 <h2>📊 Cybersecurity Projects</h2>
 <ul>
