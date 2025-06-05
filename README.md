@@ -13,9 +13,9 @@
 
 <h2>🏅 Certifications</h2>
 <ul>
+  <li><b>COMPTIA Security+</b>: <a href="https://www.credly.com/badges/b18e3423-7122-4b7a-810e-c1ef41fe836f/public_url">View on Credly</a></li>
   <li><b>Introduction to Cybersecurity by Cisco Networking Academy</b>: <a href="https://www.credly.com/badges/ca0a84fc-8b8e-4731-8fdf-28b6bae33c01">View on Credly</a></li>
   <li><b>Ethical Hacker by Cisoc Networking Academy</b>: <a href="https://www.credly.com/badges/f22014a6-8b89-4e8f-9fb1-89fd90335989">View on Credly</a></li>
-  <li><b>COMPTIA Security+</b>: <a href="https://www.credly.com/badges/b18e3423-7122-4b7a-810e-c1ef41fe836f/public_url">View on Credly</a></li>
 </ul>
 
 <h2>🤝 Connect with Me</h2>
