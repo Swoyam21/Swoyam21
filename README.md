@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Swoyam Bista
 
-🎓 Senior CIT Student | 🛡️ Cybersecurity Analyst Intern | ☁️ AWS & Security+ Certified  
+🎓 Senior CIT Student | 🛡️ Cybersecurity Analyst Intern | ☁️ CompTIA Security+ Certified  
 📍 Minnesota State University, Mankato (Graduating May 2025)
 
 ---
