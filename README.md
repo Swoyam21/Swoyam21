@@ -17,7 +17,7 @@ My projects focus on Blue Team operations, incident response, and scripting auto
 
 ## 🛡️ Cybersecurity Projects
 
-- **[SIEM Setup in Azure Sentinel (Honeypot Lab)](https://github.com/Swoyam21/Sentinel_Lab-HoneyPot)**  
+- **[Honeypot & Threat Hunting](https://github.com/Swoyam21/Sentinel_Lab-HoneyPot)**  
   Configured honeypot with Azure VM and Sentinel to monitor and analyze security incidents.
 
 - **[Vulnerability Management with Nessus](https://github.com/Swoyam21/Vulnerability-Management-with-Nessus)**  
