@@ -26,7 +26,7 @@ My projects focus on Blue Team operations, incident response, and scripting auto
 - **[ARP Spoofing Detection Lab](https://github.com/Swoyam21/arp-spoofing-mitm-lab)**  
   Demonstrated ARP poisoning and detection techniques using Kali Linux and Wireshark.
 
-> 🧪 More cloud and detection projects coming soon — including AWS security monitoring with GuardDuty + Splunk.
+> 🧪 More cloud and detection projects coming soon — including Azure security monitoring + Splunk.
 
 ---
 
