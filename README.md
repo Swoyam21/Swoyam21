@@ -20,7 +20,7 @@ My projects focus on Blue Team operations, incident response, and scripting auto
 - **[Honeypot & Threat Hunting](https://github.com/Swoyam21/Sentinel_Lab-HoneyPot)**  
   Configured honeypot with Azure VM and Sentinel to monitor and analyze security incidents.
 
-- **[Vulnerability Management with Nessus](https://github.com/Swoyam21/Vulnerability-Management-with-Nessus)**  
+- **[Windows 10 System Hardening, Patch Management & Vulnerability Remediation](https://github.com/Swoyam21/Vulnerability-Management-with-Nessus)**  
   Conducted VM-based scanning using Nessus, documented findings, and simulated remediation.
 
 - **[ARP Spoofing Detection Lab](https://github.com/Swoyam21/arp-spoofing-mitm-lab)**  
