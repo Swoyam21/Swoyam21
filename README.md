@@ -42,7 +42,7 @@ My projects focus on Blue Team operations, incident response, and scripting auto
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/swoyam-bista/)
 - 💻 [GitHub](https://github.com/Swoyam21)
-- 📧 swoyam.bista@mnsu.edu
+- 📧 swoyam.bista132@gmail.com
 
 ---
 
